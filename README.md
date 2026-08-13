@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sania-goyal/LeetCode/tree/master/0007-reverse-integer) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sania-goyal/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Geometry
 |  |
