@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sania-goyal/LeetCode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sania-goyal/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sania-goyal/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Geometry
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sania-goyal/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
