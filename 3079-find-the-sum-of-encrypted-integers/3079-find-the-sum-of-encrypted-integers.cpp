@@ -1,27 +1,25 @@
 class Solution {
 public:
+  int encrypt(int x) {
+        int maxDigit = INT_MIN, digitCount = 0;
+        while(x > 0) {
+            int currDigit = x % 10;
+            maxDigit = max(maxDigit, currDigit);
+            digitCount++;
+            x /= 10;
+        }
+        int res = 0;
+        while(digitCount > 0) {
+            res = (res * 10) + maxDigit;
+            digitCount--;
+        }
+        return res;
+    }
     int sumOfEncryptedInt(vector<int>& nums) {
-        int sum =0;
-       for(int i=0;i<nums.size();i++)
-       {
-        int mx =0;
-        int count =0;
-        while(nums[i]>0)
-        {
-            mx = max(mx,nums[i]%10);
-            nums[i]=nums[i]/10;
-            count++;
+         int sum = 0;
+        for(int i = 0; i < nums.size(); i++) {
+            sum += encrypt(nums[i]);
         }
-        while(count>0)
-        {
-            nums[i] = nums[i]*10+mx;
-            count--;
-        }
-       }
-       for(int i=0;i<nums.size();i++)
-    {
-        sum +=nums[i];
-    } 
-    return sum;
+        return sum;
     }
 };
