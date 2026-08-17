@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sania-goyal/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sania-goyal/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Geometry
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
