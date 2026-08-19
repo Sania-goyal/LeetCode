@@ -1,16 +1,12 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        vector<int>v;
-        for(int i=0;i<nums.size()-1;i++)
-        {
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[i]==nums[j])
-                {
-                    v.push_back(nums[i]);
-                }
-            }
+        vector<int> num(nums.size(),0);
+        vector<int> ans;
+        for(int i : nums){
+            if(num[i]==1) ans.push_back(i);
+            num[i]++;
         }
-        return v;
+        return ans;
     }
 };
