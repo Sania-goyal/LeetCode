@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sania-goyal/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sania-goyal/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Geometry
 |  |
 | ------- |
