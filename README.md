@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sania-goyal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sania-goyal/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sania-goyal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
