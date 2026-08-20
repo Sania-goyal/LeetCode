@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sania-goyal/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3516-find-closest-person](https://github.com/Sania-goyal/LeetCode/tree/master/3516-find-closest-person) |
 ## Array
 |  |
 | ------- |
