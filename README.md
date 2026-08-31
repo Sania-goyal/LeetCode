@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sania-goyal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sania-goyal/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
