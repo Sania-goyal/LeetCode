@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sania-goyal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sania-goyal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sania-goyal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sania-goyal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-goyal/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sania-goyal/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sania-goyal/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sania-goyal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sania-goyal/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Sania-goyal/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Geometry
