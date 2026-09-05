@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-goyal/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sania-goyal/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sania-goyal/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Sania-goyal/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sania-goyal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/Sania-goyal/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
