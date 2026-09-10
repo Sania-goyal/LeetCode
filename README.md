@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
