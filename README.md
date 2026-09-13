@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sania-goyal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Sania-goyal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sania-goyal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sania-goyal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
