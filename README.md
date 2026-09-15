@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sania-goyal/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sania-goyal/LeetCode/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sania-goyal/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sania-goyal/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0234-palindrome-linked-list) |
