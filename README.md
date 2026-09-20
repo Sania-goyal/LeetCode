@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sania-goyal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sania-goyal/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Sania-goyal/LeetCode/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/Sania-goyal/LeetCode/tree/master/0504-base-7) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sania-goyal/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
