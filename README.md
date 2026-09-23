@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sania-goyal/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Sania-goyal/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Sania-goyal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sania-goyal/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sania-goyal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0504-base-7](https://github.com/Sania-goyal/LeetCode/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Sania-goyal/LeetCode/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Sania-goyal/LeetCode/tree/master/2129-capitalize-the-title) |
