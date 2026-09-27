@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sania-goyal/LeetCode/tree/master/0504-base-7) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sania-goyal/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Sania-goyal/LeetCode/tree/master/1323-maximum-69-number) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Sania-goyal/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sania-goyal/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sania-goyal/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
