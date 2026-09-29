@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sania-goyal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Sania-goyal/LeetCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sania-goyal/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Sania-goyal/LeetCode/tree/master/3959-check-good-integer) |
 ## Prefix Sum
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Sania-goyal/LeetCode/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sania-goyal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/Sania-goyal/LeetCode/tree/master/2129-capitalize-the-title) |
+| [3174-clear-digits](https://github.com/Sania-goyal/LeetCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sania-goyal/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sania-goyal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Sania-goyal/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
