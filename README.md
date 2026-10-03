@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Sania-goyal/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Sania-goyal/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sania-goyal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sania-goyal/LeetCode/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/Sania-goyal/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-goyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
