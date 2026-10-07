@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sania-goyal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sania-goyal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2540-minimum-common-value](https://github.com/Sania-goyal/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sania-goyal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sania-goyal/LeetCode/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/Sania-goyal/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sania-goyal/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Sania-goyal/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sania-goyal/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sania-goyal/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sania-goyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Sania-goyal/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sania-goyal/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Sania-goyal/LeetCode/tree/master/2540-minimum-common-value) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sania-goyal/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Sania-goyal/LeetCode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
